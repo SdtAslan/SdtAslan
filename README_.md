@@ -1,5 +1,5 @@
 
-## Hi there. I'm Mehmet...:wave:
+## Hi there. I'm Sedat...:wave:
 - :telescope: I’m currently working on Data Analyses
 - :seedling: I’m currently learning Data Analyses tools
 - :speech_balloon: I am happy to teach you what I know and eager to learn what you will offer
