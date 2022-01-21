@@ -39,4 +39,4 @@
 
   
 <div  align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=SdtAslan&theme=xcode" /></div>
-  <div  align="center"> <img src="https://github.com/SdtAslan/blob/output/github-contribution-grid-snake.svg" /></div>
+  <div  align="center"> <img src="https://github.com/SdtAslan/github-contribution-grid-snake.svg" /></div>
