@@ -38,4 +38,5 @@
 <a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Slack_Technologies_Logo.svg/1280px-Slack_Technologies_Logo.svg.png" height="50"/> </a>
 
   
+<div  align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=SdtAslan&theme=xcode" /></div>
   <div  align="center"> <img src="https://github.com/SdtAslan/blob/output/github-contribution-grid-snake.svg" /></div>
