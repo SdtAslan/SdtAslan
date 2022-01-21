@@ -37,4 +37,5 @@
 <a href="#" target="_blank"> <img src="https://img.shields.io/badge/jira-1e90ff.svg?&style=for-the-badge&logo=jira&logoColor=white" height="50"/> </a>
 <a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Slack_Technologies_Logo.svg/1280px-Slack_Technologies_Logo.svg.png" height="50"/> </a>
 
-![snake svg](https://github.com/SdtAslan/blob/output/github-contribution-grid-snake.svg)
+  
+  <div  align="center"> <img src="https://github.com/SdtAslan/blob/output/github-contribution-grid-snake.svg" /></div>
