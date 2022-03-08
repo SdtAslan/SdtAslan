@@ -12,7 +12,7 @@
 
 ## 💻 My Projects
 
-[<img alt="HackerRank" src="https://www.google.com/search?q=streamlit&rlz=1C1FKPE_trTR956TR956&sxsrf=APq-WBuRIlJ--F0vswrGoK57r4Cdfcuv1g:1646755165779&source=lnms&tbm=isch&sa=X&ved=2ahUKEwin2b-F8bb2AhUCSfEDHW1HAQ8Q_AUoAXoECAEQAw&biw=1517&bih=730&dpr=0.9#imgrc=XUCAFSQYE8TriM&imgdii=Hi-9wBRouiwMqM"/>](http://44.203.72.181:8501/)
+[<img alt="Streamlit" src="https://www.google.com/search?q=streamlit&rlz=1C1FKPE_trTR956TR956&sxsrf=APq-WBuRIlJ--F0vswrGoK57r4Cdfcuv1g:1646755165779&source=lnms&tbm=isch&sa=X&ved=2ahUKEwin2b-F8bb2AhUCSfEDHW1HAQ8Q_AUoAXoECAEQAw&biw=1517&bih=730&dpr=0.9#imgrc=XUCAFSQYE8TriM&imgdii=Hi-9wBRouiwMqM"/>](http://44.203.72.181:8501/)
 
 
 
