@@ -12,7 +12,7 @@
 
 ## 💻 My Projects
 
-[<img alt="HackerRank" src="http://44.203.72.181:8501/"/>](https://www.hackerrank.com/sdtaslan14)
+[<img alt="HackerRank" src="http://44.203.72.181:8501/"/>](http://44.203.72.181:8501/)
 
 
 
