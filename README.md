@@ -12,7 +12,7 @@
 
 ## 💻 My Projects
 
-[<img alt="Streamlit" src="https://www.theladders.com/s3proxy/company-photo.theladders.com/67858/b9dce76d-26d1-417d-addb-e8a8f18cc706.jpg"/>](http://44.203.72.181:8501/)
+[<img alt="Streamlit" src="https://avatars.githubusercontent.com/u/45109972?s=200&v=4"/>](http://44.203.72.181:8501/)
 
 
 
