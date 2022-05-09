@@ -1,7 +1,7 @@
 
 ## Hi there. I'm Sedat...:wave:
-- :telescope: I’m currently working on Data Analyses
-- :seedling: I’m currently learning Data Analyses tools
+- :telescope: I’m currently working on Data Analyst
+- :seedling: I’m currently learning Data Analysis tools
 
 ## :man::woman: Social
 [![Linkedin: VPA](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sedat-aslan-datascientist/)
